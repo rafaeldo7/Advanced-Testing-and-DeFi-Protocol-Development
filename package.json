@@ -1,0 +1,8 @@
+{
+  "name": "blockchain-assignment-2",
+  "version": "1.0.0",
+  "description": "Advanced Testing and DeFi Protocol Development Assignment",
+  "dependencies": {
+    "forge-std": "github:foundry-rs/forge-std"
+  }
+}
